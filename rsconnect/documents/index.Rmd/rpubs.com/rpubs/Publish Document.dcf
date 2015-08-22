@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/103039/ec83712d2d59453fbd22d5615e1dff0a
+url: http://rpubs.com/thartshorne/103039
+when: 1440262676.25448
